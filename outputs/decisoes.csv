@@ -1,0 +1,1001 @@
+id_entrega,distancia_km,dias_ate_prazo,atrasos_anteriores,clima_adverso,carga_prioritaria,pontuacao,risco,acao,motivos
+1,49,8,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+2,388,8,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+3,329,6,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+4,222,9,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+5,219,1,4,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+6,430,10,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+7,47,9,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+8,350,5,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+9,104,8,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+10,51,5,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+11,266,2,2,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+12,488,8,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+13,369,2,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+14,382,3,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+15,360,5,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+16,394,9,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+17,259,4,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+18,68,5,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+19,421,0,4,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+20,228,1,2,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+21,253,0,1,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+22,188,0,3,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+23,95,9,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+24,464,9,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+25,392,9,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+26,324,0,2,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+27,204,0,3,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+28,413,3,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+29,275,6,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+30,224,3,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+31,228,5,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+32,117,1,1,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+33,50,8,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+34,280,3,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+35,445,0,5,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+36,36,8,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+37,430,9,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+38,415,0,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+39,142,4,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+40,318,9,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+41,86,7,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+42,381,9,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+43,352,4,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+44,180,4,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+45,38,7,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+46,486,1,5,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+47,226,2,2,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+48,447,6,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+49,341,7,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+50,391,1,3,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+51,381,5,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+52,101,4,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+53,185,5,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+54,236,10,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+55,251,0,4,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+56,26,10,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+57,276,4,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+58,81,8,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+59,373,4,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+60,343,3,2,0,1,1,BAIXO,Fluxo normal,Longa distância
+61,462,8,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+62,374,7,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+63,186,1,0,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+64,484,7,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+65,208,8,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+66,166,4,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+67,454,10,4,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+68,188,7,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+69,42,3,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+70,237,0,2,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+71,399,7,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+72,98,2,3,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+73,234,8,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+74,69,5,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+75,345,5,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+76,240,1,2,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+77,168,7,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+78,117,1,2,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+79,284,4,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+80,337,9,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+81,471,10,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+82,221,10,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+83,84,10,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+84,418,6,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+85,317,2,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+86,352,9,3,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+87,53,8,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+88,159,10,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+89,385,7,1,0,1,1,BAIXO,Fluxo normal,Longa distância
+90,417,1,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+91,220,5,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+92,404,4,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+93,422,9,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+94,197,4,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+95,450,3,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+96,148,0,4,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+97,123,9,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+98,343,8,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+99,320,0,4,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+100,74,4,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+101,418,5,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+102,104,5,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+103,404,10,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+104,8,1,0,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+105,400,3,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+106,395,1,1,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+107,392,2,4,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+108,334,9,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+109,238,10,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+110,354,0,1,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+111,142,6,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+112,392,2,4,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+113,280,2,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+114,232,3,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+115,255,2,4,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+116,287,5,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+117,23,10,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+118,74,6,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+119,126,7,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+120,61,5,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+121,223,0,4,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+122,336,0,5,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+123,329,2,3,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+124,238,2,3,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+125,429,9,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+126,285,9,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+127,44,9,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+128,384,7,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+129,290,6,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+130,319,7,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+131,285,4,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+132,279,7,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+133,49,8,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+134,282,8,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+135,399,6,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+136,155,0,4,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+137,304,7,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+138,20,4,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+139,177,8,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+140,221,5,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+141,492,9,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+142,111,3,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+143,142,10,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+144,207,9,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+145,497,3,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+146,428,5,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+147,22,5,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+148,121,8,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+149,412,7,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+150,33,9,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+151,429,4,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+152,144,5,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+153,460,4,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+154,150,10,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+155,220,3,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+156,333,6,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+157,67,1,2,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+158,281,9,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+159,255,4,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+160,393,3,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+161,499,6,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+162,334,5,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+163,207,9,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+164,206,5,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+165,212,5,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+166,408,1,5,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+167,164,0,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+168,87,4,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+169,170,10,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+170,16,10,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+171,57,6,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+172,49,6,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+173,387,4,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+174,363,1,4,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+175,350,0,1,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+176,234,3,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+177,360,3,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+178,84,2,2,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+179,451,2,3,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+180,253,0,2,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+181,470,6,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+182,80,10,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+183,251,7,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+184,350,4,3,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+185,250,4,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+186,226,3,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+187,87,1,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+188,193,6,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+189,123,6,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+190,154,0,3,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+191,344,4,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+192,317,3,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+193,306,1,1,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+194,184,7,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+195,481,5,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+196,48,6,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+197,174,7,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+198,63,10,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+199,173,8,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+200,482,6,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+201,186,9,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+202,455,5,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+203,250,10,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+204,352,8,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+205,231,7,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+206,136,9,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+207,384,5,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+208,485,7,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+209,135,3,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+210,391,10,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+211,134,6,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+212,360,8,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+213,396,5,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+214,227,9,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+215,370,0,0,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+216,140,1,2,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+217,44,5,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+218,52,8,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+219,226,8,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+220,452,4,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+221,68,7,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+222,231,6,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+223,354,10,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+224,105,7,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+225,362,4,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+226,156,10,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+227,406,1,5,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+228,292,10,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+229,276,1,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+230,92,3,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+231,234,9,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+232,429,8,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+233,14,10,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+234,381,8,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+235,249,7,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+236,361,3,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+237,333,0,1,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+238,219,1,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+239,158,3,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+240,316,0,5,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+241,74,5,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+242,294,8,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+243,51,10,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+244,327,5,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+245,316,9,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+246,46,10,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+247,380,9,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+248,211,5,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+249,395,3,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+250,25,10,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+251,94,2,3,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+252,250,4,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+253,98,0,1,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+254,168,8,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+255,332,7,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+256,76,0,4,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+257,341,2,4,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+258,56,6,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+259,91,5,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+260,296,8,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+261,398,2,0,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+262,89,10,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+263,153,4,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+264,463,9,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+265,495,2,0,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+266,293,0,0,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+267,226,0,4,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+268,177,4,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+269,308,10,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+270,298,0,5,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+271,151,4,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+272,16,1,1,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+273,80,10,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+274,480,7,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+275,212,8,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+276,244,7,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+277,236,7,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+278,393,8,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+279,37,0,2,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+280,46,9,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+281,141,8,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+282,246,8,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+283,337,4,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+284,248,8,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+285,223,4,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+286,470,0,4,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+287,84,9,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+288,288,2,4,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+289,273,1,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+290,239,6,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+291,405,2,2,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+292,137,9,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+293,478,4,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+294,169,0,4,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+295,275,10,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+296,263,5,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+297,426,2,1,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+298,222,7,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+299,146,5,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+300,15,0,5,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+301,185,8,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+302,414,4,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+303,9,7,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+304,449,9,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+305,274,6,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+306,74,7,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+307,154,2,1,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+308,279,2,0,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+309,161,4,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+310,58,9,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+311,335,5,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+312,338,3,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+313,63,8,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+314,144,9,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+315,125,9,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+316,332,3,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+317,367,7,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+318,365,6,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+319,470,4,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+320,386,4,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+321,164,1,0,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+322,58,3,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+323,309,6,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+324,459,9,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+325,488,9,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+326,119,2,4,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+327,122,7,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+328,23,0,1,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+329,75,7,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+330,280,3,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+331,276,4,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+332,188,7,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+333,158,4,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+334,416,8,4,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+335,233,5,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+336,405,10,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+337,482,7,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+338,162,3,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+339,105,8,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+340,477,4,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+341,319,5,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+342,149,1,2,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+343,313,1,3,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+344,260,6,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+345,454,2,3,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+346,131,10,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+347,496,9,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+348,469,7,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+349,94,8,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+350,86,6,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+351,269,0,3,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+352,27,4,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+353,153,5,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+354,220,10,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+355,485,2,1,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+356,497,5,2,0,1,1,BAIXO,Fluxo normal,Longa distância
+357,80,3,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+358,447,1,1,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+359,50,1,3,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+360,376,4,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+361,424,0,3,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+362,446,0,4,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+363,115,3,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+364,448,2,0,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+365,62,6,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+366,262,0,0,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+367,237,3,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+368,161,4,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+369,15,10,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+370,387,6,1,0,1,1,BAIXO,Fluxo normal,Longa distância
+371,171,9,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+372,333,3,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+373,208,4,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+374,190,4,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+375,444,9,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+376,51,10,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+377,370,10,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+378,375,8,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+379,193,5,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+380,135,5,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+381,7,10,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+382,469,3,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+383,475,3,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+384,124,9,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+385,20,4,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+386,65,2,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+387,38,6,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+388,417,3,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+389,447,9,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+390,81,9,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+391,375,3,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+392,93,5,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+393,187,10,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+394,302,8,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+395,362,2,2,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+396,438,6,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+397,27,6,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+398,102,7,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+399,144,0,1,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+400,158,3,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+401,500,9,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+402,390,2,3,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+403,163,3,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+404,487,3,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+405,252,1,2,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+406,253,1,4,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+407,220,3,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+408,76,9,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+409,468,0,2,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+410,11,3,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+411,91,0,3,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+412,118,6,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+413,143,2,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+414,70,8,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+415,13,6,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+416,341,8,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+417,485,6,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+418,65,4,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+419,152,9,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+420,256,5,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+421,465,10,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+422,349,10,4,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+423,385,6,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+424,293,7,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+425,211,2,2,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+426,104,8,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+427,433,7,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+428,403,9,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+429,17,2,4,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+430,359,8,1,0,1,1,BAIXO,Fluxo normal,Longa distância
+431,46,5,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+432,371,2,3,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+433,414,1,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+434,70,6,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+435,220,3,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+436,66,1,3,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+437,286,4,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+438,465,7,4,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+439,45,3,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+440,202,10,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+441,487,8,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+442,154,5,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+443,70,10,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+444,247,4,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+445,257,1,3,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+446,333,0,5,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+447,160,10,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+448,478,10,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+449,263,8,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+450,147,1,1,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+451,481,3,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+452,463,0,5,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+453,252,0,0,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+454,17,2,2,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+455,301,6,4,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+456,280,0,2,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+457,78,10,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+458,319,5,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+459,422,2,2,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+460,57,5,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+461,363,8,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+462,74,3,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+463,376,0,2,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+464,212,0,3,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+465,8,9,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+466,484,1,1,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+467,87,6,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+468,300,4,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+469,95,8,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+470,467,0,1,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+471,371,9,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+472,403,7,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+473,219,4,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+474,236,2,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+475,319,10,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+476,394,3,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+477,425,5,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+478,13,4,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+479,334,2,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+480,59,4,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+481,147,1,3,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+482,416,0,5,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+483,129,3,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+484,400,1,1,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+485,234,4,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+486,120,9,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+487,170,1,1,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+488,268,0,0,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+489,384,1,3,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+490,305,5,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+491,467,3,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+492,435,5,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+493,378,0,5,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+494,304,3,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+495,148,4,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+496,209,4,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+497,63,6,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+498,190,8,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+499,464,5,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+500,216,9,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+501,61,5,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+502,328,2,0,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+503,482,2,4,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+504,435,3,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+505,140,6,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+506,230,2,0,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+507,268,10,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+508,127,5,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+509,138,9,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+510,122,7,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+511,498,3,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+512,375,2,5,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+513,422,8,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+514,410,3,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+515,480,2,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+516,57,10,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+517,442,5,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+518,38,0,3,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+519,240,5,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+520,299,5,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+521,182,9,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+522,77,7,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+523,100,2,1,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+524,414,1,2,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+525,163,6,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+526,158,0,1,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+527,462,3,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+528,76,1,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+529,458,0,0,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+530,461,10,3,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+531,301,0,5,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+532,87,0,4,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+533,82,10,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+534,146,2,1,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+535,291,8,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+536,81,0,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+537,231,1,1,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+538,62,1,2,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+539,272,7,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+540,15,6,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+541,356,5,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+542,32,2,5,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+543,101,0,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+544,91,6,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+545,417,2,4,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+546,31,6,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+547,217,7,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+548,298,9,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+549,260,5,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+550,342,0,0,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+551,403,3,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+552,200,9,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+553,415,5,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+554,162,6,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+555,493,5,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+556,255,1,0,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+557,370,9,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+558,439,8,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+559,398,10,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+560,427,9,3,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+561,271,3,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+562,26,2,2,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+563,249,2,4,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+564,95,10,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+565,446,6,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+566,122,4,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+567,118,10,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+568,128,6,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+569,323,10,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+570,288,10,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+571,475,0,4,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+572,211,3,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+573,145,8,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+574,29,8,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+575,8,1,4,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+576,190,3,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+577,464,6,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+578,264,8,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+579,448,1,5,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+580,55,6,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+581,51,3,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+582,418,2,2,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+583,57,5,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+584,30,4,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+585,205,6,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+586,463,3,3,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+587,346,9,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+588,54,0,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+589,420,9,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+590,423,0,2,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+591,402,8,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+592,452,3,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+593,123,4,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+594,490,0,0,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+595,164,7,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+596,402,1,0,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+597,292,7,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+598,391,7,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+599,316,9,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+600,323,7,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+601,310,3,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+602,391,8,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+603,371,9,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+604,71,3,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+605,414,1,4,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+606,270,9,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+607,165,1,3,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+608,260,6,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+609,484,2,3,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+610,430,1,4,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+611,418,8,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+612,234,1,5,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+613,393,7,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+614,196,7,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+615,345,0,0,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+616,322,1,4,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+617,128,8,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+618,137,5,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+619,35,1,3,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+620,74,10,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+621,220,2,5,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+622,242,0,2,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+623,86,10,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+624,211,0,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+625,304,6,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+626,120,10,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+627,172,6,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+628,187,6,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+629,255,4,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+630,186,1,0,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+631,370,6,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+632,167,9,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+633,220,1,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+634,193,9,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+635,95,4,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+636,345,5,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+637,121,1,2,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+638,152,6,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+639,398,2,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+640,475,3,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+641,337,7,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+642,459,0,2,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+643,428,4,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+644,243,6,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+645,387,1,2,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+646,167,3,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+647,233,3,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+648,270,7,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+649,481,10,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+650,425,9,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+651,247,2,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+652,328,0,5,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+653,105,0,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+654,403,6,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+655,279,1,5,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+656,269,2,3,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+657,385,9,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+658,318,9,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+659,40,9,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+660,147,2,0,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+661,92,6,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+662,369,6,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+663,22,2,0,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+664,105,6,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+665,301,5,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+666,349,4,3,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+667,254,8,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+668,431,7,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+669,460,5,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+670,70,7,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+671,477,8,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+672,309,6,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+673,320,2,5,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+674,52,8,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+675,313,7,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+676,364,10,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+677,293,1,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+678,46,4,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+679,264,10,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+680,469,5,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+681,363,10,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+682,73,0,0,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+683,481,0,2,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+684,480,8,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+685,89,3,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+686,402,5,2,0,1,1,BAIXO,Fluxo normal,Longa distância
+687,206,4,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+688,299,4,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+689,225,10,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+690,393,1,5,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+691,499,8,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+692,399,9,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+693,466,7,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+694,474,4,2,0,1,1,BAIXO,Fluxo normal,Longa distância
+695,49,1,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+696,130,7,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+697,363,5,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+698,297,1,2,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+699,29,3,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+700,52,10,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+701,263,2,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+702,310,1,4,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+703,88,7,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+704,89,2,5,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+705,69,10,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+706,285,9,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+707,8,10,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+708,288,10,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+709,241,2,4,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+710,236,2,5,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+711,341,3,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+712,264,5,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+713,365,9,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+714,383,8,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+715,461,7,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+716,401,9,2,0,1,1,BAIXO,Fluxo normal,Longa distância
+717,261,7,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+718,249,4,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+719,121,4,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+720,302,5,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+721,74,0,3,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+722,466,8,4,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+723,424,7,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+724,64,8,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+725,394,5,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+726,63,8,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+727,362,10,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+728,48,6,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+729,247,4,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+730,331,1,2,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+731,366,8,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+732,212,9,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+733,462,7,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+734,389,9,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+735,108,9,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+736,337,8,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+737,367,5,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+738,170,1,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+739,371,0,2,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+740,450,2,2,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+741,410,4,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+742,383,8,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+743,319,5,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+744,139,0,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+745,399,2,1,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+746,185,10,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+747,268,10,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+748,160,4,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+749,160,8,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+750,83,7,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+751,481,10,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+752,78,9,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+753,47,6,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+754,469,4,3,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+755,280,6,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+756,222,3,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+757,370,3,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+758,195,6,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+759,68,6,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+760,366,6,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+761,92,4,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+762,279,4,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+763,475,0,2,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+764,469,6,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+765,183,6,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+766,392,10,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+767,308,5,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+768,242,5,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+769,74,0,2,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+770,191,2,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+771,328,3,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+772,494,4,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+773,7,3,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+774,361,4,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+775,424,8,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+776,476,1,1,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+777,215,3,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+778,63,1,5,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+779,139,3,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+780,426,7,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+781,440,0,1,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+782,320,3,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+783,65,0,4,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+784,65,10,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+785,242,7,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+786,296,2,0,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+787,21,2,1,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+788,345,1,0,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+789,275,5,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+790,11,8,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+791,52,6,5,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+792,230,9,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+793,363,3,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+794,414,3,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+795,218,5,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+796,151,2,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+797,485,10,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+798,232,2,3,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+799,161,5,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+800,224,5,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+801,10,0,4,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+802,154,5,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+803,260,5,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+804,460,2,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+805,371,1,1,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+806,392,0,5,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+807,275,0,1,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+808,59,5,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+809,198,0,4,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+810,499,10,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+811,26,2,3,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+812,441,7,1,0,0,1,BAIXO,Fluxo normal,Longa distância
+813,344,7,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+814,145,5,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+815,390,9,1,0,1,1,BAIXO,Fluxo normal,Longa distância
+816,420,1,0,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+817,26,2,4,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+818,57,2,5,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+819,335,1,0,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+820,500,3,4,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+821,16,3,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+822,335,8,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+823,72,3,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+824,327,9,5,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+825,314,8,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+826,49,9,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+827,342,1,2,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+828,449,10,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+829,433,6,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+830,19,10,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+831,126,3,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+832,124,10,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+833,229,6,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+834,75,0,3,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+835,428,4,2,0,1,1,BAIXO,Fluxo normal,Longa distância
+836,390,1,3,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+837,405,10,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+838,103,3,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+839,12,2,1,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+840,456,6,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+841,148,4,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+842,330,1,4,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+843,456,8,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+844,22,9,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+845,7,8,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+846,7,6,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+847,82,4,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+848,30,5,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+849,411,5,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+850,305,1,2,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+851,491,0,1,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+852,402,2,2,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+853,482,4,0,0,0,1,BAIXO,Fluxo normal,Longa distância
+854,123,1,0,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+855,147,1,4,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+856,426,9,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+857,126,4,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+858,33,6,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+859,336,5,4,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+860,402,8,2,0,1,1,BAIXO,Fluxo normal,Longa distância
+861,485,8,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+862,465,3,5,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+863,64,9,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+864,387,4,3,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+865,424,9,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+866,351,4,0,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+867,411,1,1,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+868,420,8,0,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+869,226,0,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+870,24,8,1,1,1,2,BAIXO,Fluxo normal,Clima adverso
+871,231,0,1,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+872,105,2,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+873,61,6,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+874,66,10,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+875,350,4,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+876,255,1,3,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+877,272,2,3,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+878,374,9,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+879,276,7,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+880,317,1,5,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+881,47,4,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+882,427,2,1,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+883,227,1,3,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+884,81,9,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+885,408,6,2,0,0,1,BAIXO,Fluxo normal,Longa distância
+886,369,1,0,0,0,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+887,31,7,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+888,100,4,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+889,12,0,0,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+890,139,4,1,1,0,2,BAIXO,Fluxo normal,Clima adverso
+891,54,2,0,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+892,357,2,3,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+893,264,9,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+894,491,7,5,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+895,376,1,1,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+896,308,9,3,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+897,257,6,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+898,32,9,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+899,39,8,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+900,310,3,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+901,7,5,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+902,26,5,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+903,113,7,5,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+904,443,2,3,0,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+905,232,3,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+906,356,2,5,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+907,209,3,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+908,90,1,5,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+909,189,0,0,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+910,50,10,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+911,387,0,0,0,1,4,MEDIO,Monitorar entrega,Prazo próximo; Longa distância
+912,96,9,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+913,191,0,2,0,0,3,MEDIO,Monitorar entrega,Prazo próximo
+914,491,8,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+915,298,3,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+916,232,5,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+917,274,3,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+918,393,5,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+919,131,4,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+920,320,5,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+921,437,4,1,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+922,288,5,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+923,226,9,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+924,76,4,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+925,128,3,2,1,0,2,BAIXO,Fluxo normal,Clima adverso
+926,474,1,1,1,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+927,273,3,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+928,154,1,1,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+929,212,2,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+930,291,10,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+931,271,0,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+932,352,5,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+933,132,9,0,1,1,2,BAIXO,Fluxo normal,Clima adverso
+934,327,10,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+935,224,1,4,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+936,471,1,1,1,1,6,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso; Longa distância
+937,83,4,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+938,78,6,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+939,233,10,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+940,257,2,1,1,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+941,347,1,4,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+942,205,2,5,0,0,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+943,458,9,4,1,1,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+944,240,0,1,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+945,69,4,4,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+946,64,1,0,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+947,487,1,3,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+948,71,10,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+949,475,0,3,1,0,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+950,142,3,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+951,51,10,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+952,156,6,3,0,0,2,BAIXO,Fluxo normal,Histórico de atrasos
+953,309,0,5,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+954,217,5,2,0,0,0,BAIXO,Fluxo normal,Sem alertas
+955,394,10,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+956,308,4,5,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+957,203,5,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+958,319,5,2,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+959,486,7,3,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+960,209,2,2,0,1,3,MEDIO,Monitorar entrega,Prazo próximo
+961,81,9,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+962,207,10,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+963,421,1,5,1,1,8,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso; Longa distância
+964,112,9,0,0,0,0,BAIXO,Fluxo normal,Sem alertas
+965,475,8,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+966,296,8,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+967,303,4,1,1,0,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+968,162,5,1,0,0,0,BAIXO,Fluxo normal,Sem alertas
+969,461,9,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+970,22,1,3,1,1,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+971,153,9,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+972,212,10,0,1,0,2,BAIXO,Fluxo normal,Clima adverso
+973,241,7,3,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+974,240,3,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+975,78,6,0,0,1,0,BAIXO,Fluxo normal,Sem alertas
+976,116,0,2,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+977,52,10,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+978,288,3,5,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+979,179,0,1,1,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Clima adverso
+980,285,8,2,0,1,0,BAIXO,Fluxo normal,Sem alertas
+981,297,7,4,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+982,353,6,0,0,1,1,BAIXO,Fluxo normal,Longa distância
+983,276,0,4,1,0,7,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Clima adverso
+984,326,8,4,1,0,5,ALTO,Priorizar acompanhamento,Histórico de atrasos; Clima adverso; Longa distância
+985,296,7,4,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+986,328,8,3,0,0,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+987,310,9,4,0,1,3,MEDIO,Monitorar entrega,Histórico de atrasos; Longa distância
+988,161,2,4,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+989,127,2,5,0,1,5,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos
+990,395,10,2,0,1,1,BAIXO,Fluxo normal,Longa distância
+991,174,5,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+992,277,4,3,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+993,102,3,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+994,218,7,5,0,1,2,BAIXO,Fluxo normal,Histórico de atrasos
+995,267,8,4,1,1,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
+996,315,0,3,0,0,6,ALTO,Priorizar acompanhamento,Prazo próximo; Histórico de atrasos; Longa distância
+997,266,6,1,0,1,0,BAIXO,Fluxo normal,Sem alertas
+998,183,10,2,1,1,2,BAIXO,Fluxo normal,Clima adverso
+999,482,3,2,1,1,3,MEDIO,Monitorar entrega,Clima adverso; Longa distância
+1000,259,3,3,1,0,4,MEDIO,Monitorar entrega,Histórico de atrasos; Clima adverso
