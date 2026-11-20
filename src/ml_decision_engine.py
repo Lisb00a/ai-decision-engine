@@ -3,6 +3,7 @@ from functools import lru_cache
 from pathlib import Path
 
 import joblib
+import json
 import pandas as pd
 
 from src.decision_engine import avaliar_entrega
@@ -11,6 +12,16 @@ from src.train import FEATURES
 
 ROOT = Path(__file__).resolve().parents[1]
 MODEL_PATH = ROOT / "models" / "random_forest.joblib"
+
+METRICS_PATH = ROOT / "outputs" / "metricas_finais.json"
+
+
+@lru_cache(maxsize=1)
+def carregar_threshold():
+    with open(METRICS_PATH, "r", encoding="utf-8") as arquivo:
+        metricas = json.load(arquivo)
+
+    return float(metricas["threshold_escolhido"])
 
 
 @lru_cache(maxsize=1)
@@ -29,9 +40,11 @@ def decidir_entrega(entrega):
     )
 
     # Classificação por Machine Learning
+    threshold = carregar_threshold()
+
     if probabilidade >= 0.70:
         risco_ml = "ALTO"
-    elif probabilidade >= 0.40:
+    elif probabilidade >= threshold:
         risco_ml = "MEDIO"
     else:
         risco_ml = "BAIXO"

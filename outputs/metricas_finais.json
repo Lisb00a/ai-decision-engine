@@ -1,0 +1,95 @@
+{
+    "divisao": {
+        "treino": 600,
+        "validacao": 200,
+        "teste": 200
+    },
+    "thresholds_validacao": {
+        "0.3": {
+            "accuracy": 0.685,
+            "precision": 0.4945,
+            "recall": 0.7258,
+            "f1": 0.5882,
+            "roc_auc": 0.7252,
+            "matriz_confusao": [
+                [
+                    92,
+                    46
+                ],
+                [
+                    17,
+                    45
+                ]
+            ]
+        },
+        "0.4": {
+            "accuracy": 0.685,
+            "precision": 0.4915,
+            "recall": 0.4677,
+            "f1": 0.4793,
+            "roc_auc": 0.7252,
+            "matriz_confusao": [
+                [
+                    108,
+                    30
+                ],
+                [
+                    33,
+                    29
+                ]
+            ]
+        },
+        "0.5": {
+            "accuracy": 0.72,
+            "precision": 0.5714,
+            "recall": 0.3871,
+            "f1": 0.4615,
+            "roc_auc": 0.7252,
+            "matriz_confusao": [
+                [
+                    120,
+                    18
+                ],
+                [
+                    38,
+                    24
+                ]
+            ]
+        }
+    },
+    "threshold_escolhido": 0.3,
+    "baseline_teste": {
+        "accuracy": 0.69,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "roc_auc": 0.5,
+        "matriz_confusao": [
+            [
+                138,
+                0
+            ],
+            [
+                62,
+                0
+            ]
+        ]
+    },
+    "random_forest_teste": {
+        "accuracy": 0.7,
+        "precision": 0.5114,
+        "recall": 0.7258,
+        "f1": 0.6,
+        "roc_auc": 0.8008,
+        "matriz_confusao": [
+            [
+                95,
+                43
+            ],
+            [
+                17,
+                45
+            ]
+        ]
+    }
+}

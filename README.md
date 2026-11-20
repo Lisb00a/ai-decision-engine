@@ -32,20 +32,53 @@ O sistema analisa características de entregas, estima o risco de atraso com um 
 
 ## Resultados experimentais
 
-| Métrica | Baseline | Random Forest |
+|## Resultados experimentais
+
+O modelo foi avaliado utilizando 1.000 entregas sintéticas, divididas em:
+
+- **60% para treinamento:** 600 registros
+- **20% para validação:** 200 registros
+- **20% para teste final:** 200 registros
+
+O threshold de classificação foi selecionado na base de validação, utilizando o F1-Score como critério.
+
+**Threshold selecionado: 0.30**
+
+### Métricas no conjunto de teste
+
+| Métrica | DummyClassifier | Random Forest |
 |---|---:|---:|
-| Accuracy | 0.69 | 0.73 |
-| Precision | 0.00 | 0.5952 |
-| Recall | 0.00 | 0.4032 |
-| F1-Score | 0.00 | 0.4808 |
-| ROC-AUC | 0.50 | 0.8093 |
+| Accuracy | 0.6900 | 0.7000 |
+| Precision | 0.0000 | 0.5114 |
+| Recall | 0.0000 | 0.7258 |
+| F1-Score | 0.0000 | 0.6000 |
+| ROC-AUC | 0.5000 | 0.8008 |
 
-Os resultados acima utilizam o threshold padrão de 0.50.
+### Matriz de confusão do Random Forest
 
-Também foram explorados thresholds de 0.30, 0.40 e 0.50. O valor de 0.40 apresentou o maior F1-Score nessa comparação exploratória.
+| Resultado real | Previsto sem atraso | Previsto com atraso |
+|---|---:|---:|
+| Sem atraso | 95 | 43 |
+| Com atraso | 17 | 45 |
 
-Como esses thresholds foram comparados no conjunto de teste, o resultado não deve ser tratado como avaliação final independente.
+O modelo identificou 45 dos 62 atrasos simulados no conjunto de teste, alcançando um Recall de 72,58%.
 
+Os resultados demonstram o funcionamento do pipeline de Machine Learning, mas não representam desempenho validado em entregas reais.
+
+### Reproduzir a avaliação
+
+```powershell
+python -m src.gerar_dados
+python -m src.criar_rotulos
+python -m src.validacao_final
+python -m pytest -v
+```
+
+O script de validação salva o modelo em `models/random_forest.joblib` e os resultados em `outputs/metricas_finais.json`.
+
+O motor híbrido utiliza o threshold selecionado na validação para sinalizar risco a partir da probabilidade estimada pelo modelo. A classificação de risco alto mantém um limite operacional demonstrativo de 0.70, combinado às regras de negócio.
+
+**Limitação:** os dados e os resultados de atraso são sintéticos. A política híbrida ainda não foi avaliada separadamente em relação ao classificador isolado.
 ## Como executar
 
 Criar o ambiente virtual:
